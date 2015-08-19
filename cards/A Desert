@@ -1,0 +1,9 @@
+// pseudocode for a basic land card
+
+{
+  "name": "A Desert",
+  "fire": "10",
+  "water": "5",
+  "air": "10",
+  "earth": "5",
+}
