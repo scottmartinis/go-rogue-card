@@ -1,1 +1,5 @@
-hi
+package main
+
+type Encounter struct {
+
+}
